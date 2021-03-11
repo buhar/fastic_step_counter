@@ -9,7 +9,7 @@
 
 #### BLoC Architecture: Dependencies of Step Counter Components
 
-![bloc_diagram](https://github.com/buhar/fastic_step_counter/blob/main/.extras/bloc_dependencies.PNG)
+![bloc_diagram](https://github.com/buhar/fastic_step_counter/blob/main/.extras/bloc_dependencies.png)
 
 #### 📦 Used Packages
 - flutter_bloc
